@@ -1,6 +1,6 @@
 #binary sorting
 print("resource open")
-nums=[1,2,7,6,5,4,33,3,5,6,7,77]
+nums=[1,2,7,6,5,4,33,3,5,6,7,77,665,3434,465,54535,657]
 def sort(nums):
     for i in range(len(nums)-1):
         minpos=i
