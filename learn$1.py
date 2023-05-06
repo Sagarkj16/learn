@@ -1,5 +1,5 @@
 #binary sorting
-print("hello")
+print("resource open")
 nums=[1,2,7,6,5,4,33,3,5,6,7,77]
 def sort(nums):
     for i in range(len(nums)-1):
@@ -17,3 +17,4 @@ def sort(nums):
 
 sort(nums)
 print(nums)
+print("resource closed")
